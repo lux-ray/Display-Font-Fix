@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+            "description": "修正許多地方顯示文字錯誤及語句不順的問題",
+            "name": "DFFR",
+            "uuid": "06654e29-413c-453f-bc2a-9a259174e1dd",
+            "version": [1,0,0],
+            "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "修正許多地方顯示文字錯誤及語句不順的問題",
+            "type": "resources",
+            "uuid": "b4f57403-45a9-4fc5-9261-b28e54369ecc",
+            "version": [1,0,0]
+        }
+    ]
+}
